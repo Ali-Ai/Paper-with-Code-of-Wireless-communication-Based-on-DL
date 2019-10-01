@@ -1,20 +1,14 @@
-For English reader,please refer to [English Version](https://github.com/IIT-Lab/Paper-with-Code-of-Wireless-communication-Based-on-DL/blob/master/English%20version.md).
+With the development of deep learning, more and more research has been done to solve problems in related communication fields using deep learning. As a graduate student in communications, if the lab does not have the code to accumulate in the relevant direction, it will be very difficult to get started and go deep into a new direction. At the same time, most papers in the field of communication do not provide open source code, and reproducible research is difficult.
+The communication papers based on deep learning have increased rapidly in recent years, and the authors of these papers are more willing to open source. This project focuses on the collection of papers which are relevant to wireless communication based on deep learning and released the code .
+The area of personal attention and limited efforts, this list will not be so complete. If you know some related open source papers, but not on this list, you are welcome to pull request.
 
-随着深度学习的发展，使用深度学习解决相关通信领域问题的研究也越来越多。作为一名通信专业的研究生，如果实验室没有相关方向的代码积累，入门并深入一个新的方向会十分艰难。同时，大部分通信领域的论文不会提供开源代码，reproducible research比较困难。
-<br>
-基于深度学习的通信论文这几年飞速增加，明显能感觉这些论文的作者更具开源精神。本项目专注于整理在通信中应用深度学习，并公开了相关源代码的论文。
-<br>
-个人关注的领域和精力有限，这个列表不会那么完整。如果你知道一些相关的开源论文，但不在此列表中，非常欢迎添加，为community贡献一份力量。欢迎交流^_^
-<br>
-**温馨提示:watch相较于star更容易得到更新通知 。**
-<br>
-TODO 
+TODO
 
-- [ ] 按不同小方向分类
-- [ ] 论文添加下载链接
-- [ ] 增加更多相关论文代码
-- [ ] 传统通信论文代码列表
-- [ ] “通信+DL”论文列表（引用较高，可以没有代码）
+ Sort by different subdirections
+ Add download link to paper
+ Add more related paper's code
+ Traditional communication paper code list
+ "Communication +DL" paper list (high cited, without code is ok)
 
 
 
