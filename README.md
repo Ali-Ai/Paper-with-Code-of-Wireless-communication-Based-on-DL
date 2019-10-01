@@ -4,11 +4,11 @@ The area of personal attention and limited efforts, this list will not be so com
 
 TODO
 
- Sort by different subdirections
- Add download link to paper
- Add more related paper's code
- Traditional communication paper code list
- "Communication +DL" paper list (high cited, without code is ok)
+ -Sort by different subdirections
+ -Add download link to paper
+ -Add more related paper's code
+ -Traditional communication paper code list
+ -"Communication +DL" paper list (high cited, without code is ok)
 
 
 
